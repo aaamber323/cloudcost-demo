@@ -1,2 +1,2 @@
 # cloudcost-demo
-kingnet cloud cost demo
+kingnet cloud cost demo.

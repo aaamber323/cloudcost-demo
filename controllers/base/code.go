@@ -1,0 +1,11 @@
+package base
+
+var (
+	SUCCESS        = 200
+	EROOR          = 500
+	INVALID_PARAMS = 400
+
+	ERROR_AUTH_CHECK_TOKEN_FAIL = 40001
+	ERROR_AUTH_TOKEN_USER       = 40002
+	UNAUTHORIZED                = 40003
+)
